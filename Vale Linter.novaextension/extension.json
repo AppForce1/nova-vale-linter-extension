@@ -1,0 +1,18 @@
+{
+    "identifier": "net.appforce1.ValeLinter",
+    "name": "Vale Linter",
+    "organization": "AppForce1",
+    "description": "Performs file level Vale doc linting.",
+    "version": "1.0",
+    "categories": ["issues"],
+    
+    "main": "main.js",
+    
+    "activationEvents": [
+        "onWorkspaceContains:.vale.ini"
+    ],
+    
+    "entitlements": {
+        "process": true
+    }
+}
