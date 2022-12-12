@@ -5,7 +5,9 @@
     "description": "Performs file level Vale doc linting.",
     "version": "1.0",
     "categories": ["issues"],
-    
+    "repository": "https://github.com/AppForce1/nova-vale-linter-extension",
+    "bugs": "https://github.com/AppForce1/nova-vale-linter-extension/issues",
+    "license": "MIT",
     "main": "main.js",
     
     "activationEvents": [
