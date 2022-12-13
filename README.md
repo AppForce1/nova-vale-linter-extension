@@ -36,6 +36,8 @@ Vale Linter requires some additional tools to be installed on your Mac:
 
 ## Getting started
 
+[Install the current version through Nova](nova://extension/?id=net.appforce1.ValeLinter&name=Vale%20Linter). [Or look it up on Panic's extension repository](https://extensions.panic.com/extensions/net.appforce1/net.appforce1.ValeLinter/).
+
 Clone the repository and activate the project for development.
 
 ![](ActivateExtension.png)
